@@ -63,7 +63,7 @@
 </h1> -->
 
 <h1>Database:&nbsp;&nbsp;
-    <img src="images/db/mongodb.svg" height="34" alt="MongoDB" align=right>&nbsp;&nbsp;
+    <img src="images/db/mongodb.svg" height="34" alt="MongoDB" align=right>
     <img src="images/db/mysql.svg" height="34" alt="MySQL" align=right>&nbsp;&nbsp;
 </h1>
 
