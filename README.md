@@ -1,9 +1,9 @@
 <p align="center"><img src="images/header/Aniket-cover.svg" alt="Cover Image" /></p>
 
-<!--
+
 ![status](https://img.shields.io/badge/Btw-I%20use%20Ubuntu-red)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=2004_Aniket_Datta.2004mathematicsEnthusiastAniketDatta)
--->
+
 
 <h3 align="center">Social Media</h3>
 
